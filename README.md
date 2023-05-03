@@ -1,6 +1,6 @@
 ### Hi there 👋 My name's Casey Hart(she/her) and I'm a self taught web developer currently working through a few portfolio projects to apply my skills as I acquire them. As far as projects goes I'm interested in ones from a variety of industries (edtech, social impact, social sciences, music, art, and languages/culture.) I'd love the opportunity to contribute to documentation and technical writing for open source projects related to the interests above. 
 
-
+About Me - Work in Progress 
 
 
 
